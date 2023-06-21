@@ -18,7 +18,7 @@
     "@nuxtjs/sitemap": "^2.0.1",
     "cookie-universal-nuxt": "^2.1.0",
     "element-ui": "^2.13.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "nuxt-universal-cookies": "0.0.5",
     "v-mask": "^2.0.2",
     "vee-validate": "^3.2.1",
